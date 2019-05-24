@@ -242,7 +242,7 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
