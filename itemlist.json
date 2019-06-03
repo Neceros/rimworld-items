@@ -481,36 +481,6 @@
 		"defname": "Meat_Brontosaurus"
 	},
 	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_I_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_II_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_III_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_IV_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_V_disabled"
-	},
-	{
 		"abr": "builder(i)basestation",
 		"price": 833,
 		"category": "Furniture",
@@ -751,36 +721,6 @@
 		"defname": "AIRobot_RechargeStation_Cleaner_V"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_II_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_III_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_IV_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_V_disabled"
-	},
-	{
-		"abr": "cleaningbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_disabled"
-	},
-	{
 		"abr": "cloth",
 		"price": 2,
 		"category": "Textiles",
@@ -893,36 +833,6 @@
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_I_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_II_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_III_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_IV_disabled"
-	},
-	{
-		"abr": "crafterbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
 	{
 		"abr": "crafter(i)basestation",
@@ -1243,36 +1153,6 @@
 		"defname": "EndTable"
 	},
 	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_I_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_II_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_III_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_IV_disabled"
-	},
-	{
-		"abr": "erbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_V_disabled"
-	},
-	{
 		"abr": "er(i)basestation",
 		"price": 833,
 		"category": "Furniture",
@@ -1555,36 +1435,6 @@
 		"defname": "AIRobot_RechargeStation_Hauler_V"
 	},
 	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_II_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_III_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_IV_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_V_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_disabled"
-	},
-	{
 		"abr": "hay",
 		"price": 1,
 		"category": "Foods",
@@ -1835,36 +1685,6 @@
 		"price": 417,
 		"category": "Natural",
 		"defname": "Kidney"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_I_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_II_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_III_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_IV_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
 	{
 		"abr": "kitchen(i)basestation",
@@ -2189,12 +2009,6 @@
 		"price": 19092,
 		"category": "Furniture",
 		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "omnibot(disabled)",
-		"price": 42,
-		"category": "Robots",
-		"defname": "RPP_Bot_Omni_V_disabled"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
