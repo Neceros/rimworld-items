@@ -343,6 +343,12 @@
 		"defname": "Leather_Bird"
 	},
 	{
+		"abr": "birthcontrol",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "BirthControl"
+	},
+	{
 		"abr": "bison",
 		"price": 583,
 		"category": "Animal",
@@ -359,6 +365,12 @@
 		"price": 7,
 		"category": "Textiles",
 		"defname": "AEXP_WoolBison"
+	},
+	{
+		"abr": "blackboard",
+		"price": 358,
+		"category": "Production",
+		"defname": "Blackboard"
 	},
 	{
 		"abr": "bluefur",
@@ -1079,6 +1091,12 @@
 		"price": 95,
 		"category": "Production",
 		"defname": "FermentingBarrel"
+	},
+	{
+		"abr": "fertilitybooster",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "FertilityBooster"
 	},
 	{
 		"abr": "finemeal",
@@ -1993,6 +2011,12 @@
 		"defname": "PowerClaw"
 	},
 	{
+		"abr": "pregnancytest",
+		"price": 12,
+		"category": "Drugs",
+		"defname": "PregnancyTest"
+	},
+	{
 		"abr": "prostheticarm",
 		"price": 408,
 		"category": "Artificial",
@@ -2171,6 +2195,12 @@
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "schooltable",
+		"price": 281,
+		"category": "Production",
+		"defname": "SchoolTable"
 	},
 	{
 		"abr": "sculptor'stable",
@@ -2717,271 +2747,7 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
-	},
-	{
-		"abr": "ancientcryptosleepcasket",
-		"price": 617,
-		"category": "Misc",
-		"defname": "RRY_XenomorphCryptosleepCasket"
-	},
-	{
-		"abr": "combistaff",
-		"price": 500,
-		"category": "Melee weapons",
-		"defname": "RRY_Melee_Combistaff"
-	},
-	{
-		"abr": "eliteyautjabiomask",
-		"price": 833,
-		"category": "Headgear",
-		"defname": "RRY_Apparel_HunterEliteBioMask"
-	},
-	{
-		"abr": "eliteyautjahunterchestplate",
-		"price": 4167,
-		"category": "Armour",
-		"defname": "RRY_Apparel_HunterEliteArmourChestplate"
-	},
-	{
-		"abr": "glowpod",
-		"price": 83,
-		"category": "Special",
-		"defname": "GlowPodLike"
-	},
-	{
-		"abr": "healthshard",
-		"price": 1250,
-		"category": "Items",
-		"defname": "RRY_HealthShard"
-	},
-	{
-		"abr": "hellhound",
-		"price": 750,
-		"category": "Animal",
-		"defname": "RRY_Yautja_Hound"
-	},
-	{
-		"abr": "hellhoundmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RRY_Yautja_Hound"
-	},
-	{
-		"abr": "methadone",
-		"price": 27,
-		"category": "Drugs",
-		"defname": "Methadone"
-	},
-	{
-		"abr": "needler",
-		"price": 1250,
-		"category": "Ranged weapons",
-		"defname": "RRY_Gun_NeedlerRifle"
-	},
-	{
-		"abr": "neomorphmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RRY_Xenomorph_Neomorph"
-	},
-	{
-		"abr": "ornateyautjabiomask",
-		"price": 833,
-		"category": "Headgear",
-		"defname": "RRY_Apparel_HunterLeaderBioMask"
-	},
-	{
-		"abr": "ornateyautjahunterchestplate",
-		"price": 4167,
-		"category": "Armour",
-		"defname": "RRY_Apparel_HunterLeaderArmourChestplate"
-	},
-	{
-		"abr": "plasmapistol",
-		"price": 1250,
-		"category": "Ranged weapons",
-		"defname": "RRY_Gun_YautjaBlaster"
-	},
-	{
-		"abr": "rynath",
-		"price": 1167,
-		"category": "Animal",
-		"defname": "RRY_Rynath"
-	},
-	{
-		"abr": "rynathleather",
-		"price": 4,
-		"category": "Leathers",
-		"defname": "RRY_Leather_Rynath"
-	},
-	{
-		"abr": "rynathmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RRY_Rynath"
-	},
-	{
-		"abr": "simplexenomorphshield(drone)",
-		"price": 342,
-		"category": "Melee weapons",
-		"defname": "RRY_Shield_Xenomorph_Drone"
-	},
-	{
-		"abr": "spearrifle",
-		"price": 1467,
-		"category": "Ranged weapons",
-		"defname": "RRY_Gun_SpearRifle"
-	},
-	{
-		"abr": "spiketrap",
-		"price": 319,
-		"category": "Security",
-		"defname": "RRY_TrapSpike"
-	},
-	{
-		"abr": "tazingturret",
-		"price": 583,
-		"category": "Security",
-		"defname": "Turret_TazingTurret"
-	},
-	{
-		"abr": "xenomorphcarapace",
-		"price": 333,
-		"category": "Items",
-		"defname": "RRY_Xenomorph_HeadShell"
-	},
-	{
-		"abr": "xenomorphflesh",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RRY_Xenomorph_FaceHugger"
-	},
-	{
-		"abr": "xenomorphleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "RRY_Leather_Xenomorph"
-	},
-	{
-		"abr": "xenomorphtailspike",
-		"price": 667,
-		"category": "Items",
-		"defname": "RRY_Xenomorph_TailSpike"
-	},
-	{
-		"abr": "xenomorph-tailspear",
-		"price": 942,
-		"category": "Melee weapons",
-		"defname": "RRY_MeleeWeapon_XenoSpear"
-	},
-	{
-		"abr": "yautja",
-		"price": 5833,
-		"category": "Animal",
-		"defname": "RRY_Alien_Yautja"
-	},
-	{
-		"abr": "yautjabiomask",
-		"price": 833,
-		"category": "Headgear",
-		"defname": "RRY_Apparel_HunterBioMask"
-	},
-	{
-		"abr": "yautjabladedmaul",
-		"price": 1333,
-		"category": "Melee weapons",
-		"defname": "RRY_Melee_BladedMaul"
-	},
-	{
-		"abr": "yautjabloodingcasket",
-		"price": 16667,
-		"category": "Misc",
-		"defname": "RRY_Yautja_CryptosleepCasket_Tribute_XenoEgg"
-	},
-	{
-		"abr": "yautjacompoundbow",
-		"price": 358,
-		"category": "Ranged weapons",
-		"defname": "RRY_Gun_Compound_Bow"
-	},
-	{
-		"abr": "yautjaheavychestplate",
-		"price": 3333,
-		"category": "Armour",
-		"defname": "RRY_Apparel_HunterHeavyArmourChestplate"
-	},
-	{
-		"abr": "yautjahunterchestplate",
-		"price": 2917,
-		"category": "Armour",
-		"defname": "RRY_Apparel_HunterArmourChestplate"
-	},
-	{
-		"abr": "yautjahuntergauntlet",
-		"price": 4167,
-		"category": "Equipment",
-		"defname": "RRY_Equipment_HunterGauntlet"
-	},
-	{
-		"abr": "yautjahuntergreaves",
-		"price": 1667,
-		"category": "Armour",
-		"defname": "RRY_Apparel_HunterArmourGreaves"
-	},
-	{
-		"abr": "yautjahuntingbow",
-		"price": 218,
-		"category": "Ranged weapons",
-		"defname": "RRY_Gun_Hunting_Bow"
-	},
-	{
-		"abr": "yautjaleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "RRY_Leather_Yautja"
-	},
-	{
-		"abr": "yautjalightchestplate",
-		"price": 2500,
-		"category": "Armour",
-		"defname": "RRY_Apparel_HunterLightArmourChestplate"
-	},
-	{
-		"abr": "yautjamachiningtable",
-		"price": 758,
-		"category": "Production",
-		"defname": "RRY_TableMachining"
-	},
-	{
-		"abr": "yautjameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RRY_Alien_Yautja"
-	},
-	{
-		"abr": "yautjashoulderplasmacaster",
-		"price": 5833,
-		"category": "Equipment",
-		"defname": "RRY_Equipment_HunterShoulderCannon"
-	},
-	{
-		"abr": "yautjasmartdisk",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "RRY_Gun_SmartDisk"
-	},
-	{
-		"abr": "yautjasurvivalmesh",
-		"price": 383,
-		"category": "Apparel",
-		"defname": "RRY_Apparel_Mesh"
-	},
-	{
-		"abr": "yautjavest",
-		"price": 211,
-		"category": "Apparel",
-		"defname": "RRY_Apparel_HunterVest"
-	},
+	}
 	],
-	"total": 928
+	"total": 458
 }
