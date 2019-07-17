@@ -181,13 +181,13 @@
 		"defname": "Meat_Cow"
 	},
 	{
-		"abr": "yakbeef",
+		"abr": "beef",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_Yak"
 	},
 	{
-		"abr": "mutantcowbeef",
+		"abr": "beef",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_MutantCow"
